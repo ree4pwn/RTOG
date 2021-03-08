@@ -8,3 +8,7 @@
 * [jenkins](duan-kou-yu-gong-ji-xiang-liang/jenkins.md)
 * [Telegram](duan-kou-yu-gong-ji-xiang-liang/telegram.md)
 
+## 工具快捷使用
+
+* [Cobalt Strike](gong-ju-kuai-jie-shi-yong/cobalt-strike.md)
+
