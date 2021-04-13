@@ -20,5 +20,11 @@ netsh wlan show profile name="wifi名称" key=clear
 netsh wlan show networks
 ```
 
-获取周边Bluetooth
+获取所有Wlan信息
+
+```text
+netsh wlan show all
+```
+
+
 

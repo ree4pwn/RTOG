@@ -19,7 +19,14 @@ description: 重大漏洞与PoC速查
     * [https://github.com/NS-Sp4ce/CVE-2021-21972](https://github.com/NS-Sp4ce/CVE-2021-21972)
   * 参考链接
     * [http://noahblog.360.cn/vcenter-6-5-7-0-rce-lou-dong-fen-xi/](http://noahblog.360.cn/vcenter-6-5-7-0-rce-lou-dong-fen-xi/)
-* CVE-2021
-
-
+* CVE-2021-3156
+  * 受影响的产品
+    * Sudo 1.9.0 到 1.9.5p1 所有稳定版（默认配置）
+    * Sudo 1.8.2 到 1.8.31p2 所有旧版本（默认配置）
+  * 漏洞简介
+    * 任何本地用户（包括普通用户和系统用户，sudoer和非sudoers）若成功利用该漏洞，可在无需密码的情况下获得root权限。
+  * PoC
+    * [https://github.com/worawit/CVE-2021-3156](https://github.com/worawit/CVE-2021-3156)
+  * 参考链接
+    * [https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)
 
