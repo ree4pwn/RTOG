@@ -1,7 +1,8 @@
 ---
 description: >-
   Red Team Operation Guideline(RTOG)
-  红队行动指南，作为我工作、学习与研究的总结和一份Cheatsheat，方便未来我资料查阅。
+  
+  红队行动指南，作为工作、学习与研究的总结和一份Cheatsheat，方便未来资料查阅。
 ---
 
 # Red Team Operation Guideline
